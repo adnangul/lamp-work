@@ -12,5 +12,6 @@
         $welcome = new Welcome() ;
     ?>
     <h1><?php echo $welcome->greet() ?></h1>
+    <p>Modified to verify the CI & CD</p>
 </body>
 </html>
